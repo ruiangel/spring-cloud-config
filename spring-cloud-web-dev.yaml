@@ -1,2 +1,2 @@
 hello:
-  message: hello everyboby 
+  errMsg: fail to invoke target method
